@@ -1,4 +1,5 @@
 import {useRef} from "react";
+import "../common-styles.css";
 import "./Header.css";
 
 function Header () {

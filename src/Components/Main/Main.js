@@ -1,4 +1,5 @@
 import {useRef} from "react";
+import "../common-styles.css";
 import "./Main.css";
 
 function Main () {
