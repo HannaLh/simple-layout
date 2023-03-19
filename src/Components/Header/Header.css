@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    padding: 0 10px;
+    background-color: var(--mainColor);
+    color: var(--textColor);
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul li a {
+    margin: 0 10px;
+    color: var(--textColor);
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: 1px 1px #0a0a0a;
+}

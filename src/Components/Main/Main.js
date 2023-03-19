@@ -1,5 +1,5 @@
 import {useRef} from "react";
-import "../Styles/main.css";
+import "./Main.css";
 
 function Main () {
     const mainRef = useRef();

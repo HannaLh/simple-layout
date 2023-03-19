@@ -1,5 +1,5 @@
 import {useRef} from "react";
-import "../Styles/main.css";
+import "./Header.css";
 
 function Header () {
     const navRef = useRef();

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+:root {
+    --mainColor: #38443d;
+    --mainColorLight: #7c9386;
+    --textColor: #0a0a0a;
+    --asideMainColor: #29627e;
+}
