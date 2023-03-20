@@ -1,13 +1,10 @@
-import {useRef} from "react";
-import "../common-styles.css";
 import "./Header.css";
 
 function Header () {
-    const navRef = useRef();
     return (
         <header>
             <h3>Logo</h3>
-            <nav ref={navRef}>
+            <nav>
                 <ul>
                     <li><a href="/#">Home</a></li>
                     <li><a href="/#">Menu</a></li>
